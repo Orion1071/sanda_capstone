@@ -16,4 +16,4 @@
 - If the model will run too long, you may also need to diable watchdog in the same menuconfig
 - For online processing, use the ``serail_send.py``
 - make changes to the datapath appropirately
-- Do no hesitate to contact me at [](sandacsjmu@gmail.com)
+- Do no hesitate to contact me. The contact information can be found on [sanda](sanda.thura.me)
